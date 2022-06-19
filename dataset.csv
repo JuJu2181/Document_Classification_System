@@ -1,0 +1,1833 @@
+,Text,Label
+0,"About AI
+AI is artificial Intelligence. It is making computers Intelligent and capable of
+making logical decisions from facts provided to us just as humans. It is the
+concept of making Computers similar to humans.Just the concept of
+making computers as smart  as humans may sound like science fiction but
+it is essentially what makes it so interesting.
+Here we will be discussing the concepts such as supervised learning,
+unsupervised learning and reinforcement learning. This is the future and is
+as revolutionary as electricity.
+",1
+1,"About AI
+AI stands of Artificial Intelligence it comprises of many learning concepts
+from Machine Learning, Deep learning, and many more it has many models
+and learning methods ranging from supervised learning to unsupervised
+learning to reinforcement learning and furthermore it is the future and it can
+be used essentially for anything and learning of any human behaviours.
+Moving on we can teach alot of things to computers and this concepts of
+making computers teachable is the concept of AI and this is fundamentally
+same as teaching kids about anything
+",1
+2,"About AI
+AI is the future as stated by Richest man in the world Elon Musk. AI is a
+revolutionary piece of technology capable of processing complex structures
+of logic and having a chain of thoughts. It is the process of making
+machines capable of learning and understanding behaviors.
+Teaching students and making AI models is somewhat similar as the
+fundamental of both of them is making sure the party understands it.
+",1
+3,"About AI
+Artificial Intelligence is the future of mankind; it gives us all things needed
+for humans to thrive. AI is as big as Electricity was back in the day. It is
+revolutionary tech and comprises Machine Learning, Deep Learning, and
+many mother subbranches.
+AI has plagued the society from being able to classify document, recognize
+faces and also be able to understand human language to human behavior.
+It is capable of learning everything from humans
+",1
+4,"ABOUT AI 
+Artificial intelligence is the simulation of human intelligence processes by 
+machines, especially computer systems. Specific applications of AI 
+include expert systems, natural language processing, speech recognition 
+and machine vision. 
+How does AI work? 
+As the hype around AI has accelerated, vendors have been scrambling to 
+promote how their products and services use AI. Often what they refer to as 
+AI is simply one component of AI, such as machine learning. AI requires a 
+foundation of specialized hardware and software for writing and training 
+machine learning algorithms. No one programming language is 
+synonymous with AI, but a few, including Python, R and Java, are popular. 
+In general, AI systems work by ingesting large amounts of labeled training 
+data, analyzing the data for correlations and patterns, and using these 
+patterns to make predictions about future states. In this way, a chatbot that 
+is fed examples of text chats can learn to produce lifelike exchanges with 
+people, or an image recognition tool can learn to identify and describe 
+objects in images by reviewing millions of examples. 
+AI programming focuses on three cognitive skills: learning, reasoning and 
+self-correction. 
+Learning processes. This aspect of AI programming focuses on acquiring 
+data and creating rules for how to turn the data into actionable 
+information. The rules, which are called algorithms, provide computing 
+devices with step-by-step instructions for how to complete a specific task. 
+Within artificial intelligence (AI) and machine learning, there are two basic 
+approaches: supervised learning and unsupervised learning. The main 
+difference is one uses labeled data to help predict outcomes, while the 
+other does not. However, there are some nuances between the two 
+approaches, and key areas in which one outperforms the other. This post 
+will clarify the differences so you can choose the best approach for your 
+situation. 
+What is supervised learning? 
+Supervised learning is a machine learning approach that’s defined by its use 
+of labeled datasets. These datasets are designed to train or “supervise” 
+algorithms into classifying data or predicting outcomes accurately. Using 
+labeled inputs and outputs, the model can measure its accuracy and learn 
+over time. 
+Supervised learning can be separated into two types of problems 
+when data mining: classification and regression: 
+• Classification problems use an algorithm to accurately assign test 
+data into specific categories, such as separating apples from oranges. 
+Or, in the real world, supervised learning algorithms can be used to 
+classify spam in a separate folder from your inbox. Linear classifiers, 
+support vector machines, decision trees and random forest are all 
+common types of classification algorithms. 
+• Regression is another type of supervised learning method that uses 
+an algorithm to understand the relationship between dependent and 
+independent variables. Regression models are helpful for predicting 
+numerical values based on different data points, such as sales revenue 
+projections for a given business. Some popular regression algorithms 
+are linear regression, logistic regression and polynomial regression. 
+What is unsupervised learning? 
+Unsupervised learning uses machine learning algorithms to analyze and 
+cluster unlabeled data sets. These algorithms discover hidden patterns in 
+data without the need for human intervention (hence, they are 
+“unsupervised”). 
+Unsupervised learning models are used for three main tasks: clustering, 
+association and dimensionality reduction: 
+• Clustering is a data mining technique for grouping unlabeled data 
+based on their similarities or differences. For example, K-means 
+clustering algorithms assign similar data points into groups, where 
+the K value represents the size of the grouping and granularity. This 
+technique is helpful for market segmentation, image compression, 
+etc. 
+• Association is another type of unsupervised learning method that 
+uses different rules to find relationships between variables in a given 
+dataset. These methods are frequently used for market basket 
+analysis and recommendation engines, along the lines of “Customers 
+Who Bought This Item Also Bought” recommendations. 
+• Dimensionality reduction is a learning technique used when the 
+number of features  (or dimensions) in a given dataset is too high. It 
+reduces the number of data inputs to a manageable size while also 
+preserving the data integrity. Often, this technique is used in the 
+preprocessing data stage, such as when autoencoders remove noise 
+from visual data to improve picture quality. 
+The main difference between supervised and unsupervised learning: 
+Labeled data 
+The main distinction between the two approaches is the use of labeled 
+datasets. To put it simply, supervised learning uses labeled input and 
+output data, while an unsupervised learning algorithm does not. 
+In supervised learning, the algorithm “learns” from the training dataset by 
+iteratively making predictions on the data and adjusting for the correct 
+answer. While supervised learning models tend to be more accurate than 
+unsupervised learning models, they require upfront human intervention to 
+label the data appropriately. For example, a supervised learning model can 
+predict how long your commute will be based on the time of day, weather 
+conditions and so on. But first, you’ll have to train it to know that rainy 
+weather extends the driving time. 
+Unsupervised learning models, in contrast, work on their own to discover 
+the inherent structure of unlabeled data. Note that they still require some 
+human intervention for validating output variables. For example, an 
+unsupervised learning model can identify that online shoppers often 
+purchase groups of products at the same time. However, a data analyst 
+would need to validate that it makes sense for a recommendation engine to 
+group baby clothes with an order of diapers, applesauce and sippy cups. 
+Other key differences between supervised and unsupervised learning 
+• Goals: In supervised learning, the goal is to predict outcomes for new 
+data. You know up front the type of results to expect. With an 
+unsupervised learning algorithm, the goal is to get insights from large 
+volumes of new data. The machine learning itself determines what is 
+different or interesting from the dataset. 
+• Applications: Supervised learning models are ideal for spam 
+detection, sentiment analysis, weather forecasting and pricing 
+predictions, among other things. In contrast, unsupervised learning is 
+a great fit for anomaly detection, recommendation engines, customer 
+personas and medical imaging. 
+• Complexity: Supervised learning is a simple method for machine 
+learning, typically calculated through the use of programs like R or 
+Python. In unsupervised learning, you need powerful tools for 
+working with large amounts of unclassified data. Unsupervised 
+learning models are computationally complex because they need a 
+large training set to produce intended outcomes. 
+• Drawbacks: Supervised learning models can be time-consuming to 
+train, and the labels for input and output variables require expertise. 
+Meanwhile, unsupervised learning methods can have wildly 
+inaccurate results unless you have human intervention to validate the 
+output variables. 
+ 
+ 
+Terms 
+Algorithm A formula or set of rules (or procedure, processes, or 
+instructions) for solving a problem or for performing a task. In Artificial 
+Intelligence, the algorithm tells the machine how to find answers to a 
+question or solutions to a problem. In machine learning, systems use many 
+different types of algorithms. Common examples include decision trees, 
+clustering algorithms, classification algorithms, or regression algorithms. 
+Artificial Neuron An artificial neuron is a digital construct that seeks to 
+simulate the behavior of a biological neuron in the brain. Artificial neurons 
+are typically used to make up an artificial neural network—these 
+technologies are modeled after human brain activity 
+Backpropagation Backpropagation, also called “backward propagation of 
+errors,” is an approach that is commonly used in the training process of the 
+deep neural network to reduce errors. It allows the machine learning 
+algorithm to adjust itself according to looking at its past function. It 
+involves the calculation of errors between prediction and the target values, 
+the computation of the gradient of the error function, and then the update 
+of the weigh 
+Data Data is a collection of qualitative and quantitative variables. It contains 
+the information that is represented numerically and needs to be analyzed.  
+Data Cleaning Data Cleaning is the process of identifying, correcting, or 
+removing inaccurate or corrupt data records. 
+Learning Learning is the process of acquiring new or modifying existing 
+knowledge, behaviors, skills, values, or preferences. The ability to learn is 
+possessed by humans, animals, and some machines, and there is also 
+evidence for some kind of learning in some plants. Some learning is 
+immediate, induced by a single event but much skill and knowledge 
+accumulates from repeated experiences. 
+Natural Language Processing Natural language processing (NLP) is a 
+method to translate between computer and human languages. 
+Traditionally, feeding statistics and models have been the method of choice 
+for interpreting phrases. Recent advances in this area include voice 
+recognition software, human language translation, information retrieval, 
+and artificial intelligence. There is difficulty in developing human language 
+translation software because language is constantly changing. Natural 
+language processing is also being developed to create human readable text 
+and to translate between one human language and another. Already 
+existing reports associated with radiology images can be used to learn 
+about disease and conditions and the ultimate goal of NLP is to build 
+software that will analyze, understand, and generate human languages 
+naturally, enabling communication with a computer as if it were a human.  
+Neural networks Also known as artificial neural network, neural net, deep 
+neural net; a computer system inspired by living brains. Neural networks 
+found to perform best in ImageNet data challenges were convolutional 
+neural networks (CNNs). This name comes from the mathematical concept 
+of convolution, which is similar to the CNN convolutional operation wherein 
+filters are applied to an image in fixed spatial regions and are swept across, 
+or integrated, over the entire image. The resulting activations can then be 
+aggregated in pooling operations, 
+ 
+Frameworks of AI 
+Tensor Flow 
+Hailing from the Google family, Tensor Flow proves to be a robust open-
+source framework that supports deep learning and which can be accessed 
+even from a mobile device. 
+Tensor flow is considered an apt tool for statistic program development. As 
+it offers distributed training, machine models can be trained a lot more 
+effectively at any level of abstraction that the user prefers. 
+Features 
+• A scalable multi programming interface for easy programming 
+• Strong growth drivers, with a strong open source community 
+• Provides extensive and well-documented manuals for people 
+Pros 
+• The language used by tensor flow is Python, which is very popular 
+nowadays. 
+• This framework is capable of high computational power. Hence, it can 
+be used on any CPU or GPU. 
+• Uses computational graph abstraction to create machine models 
+Cons 
+• To make a decision or prediction, the framework passes the input 
+data through multiple nodes. This can be time-consuming. 
+• It also lacks many of the pre-trained models of AI. 
+Check out this Udemy course if interested in learning Tensor Flow. 
+Microsoft CNTK 
+ 
+Microsoft CNTK is a faster and more versatile open-source framework that 
+is based on neural networks that support text, message, and voice 
+remodeling. 
+It provides an efficient scaling environment due to a faster overall 
+evaluation of the machine models while taking care of accuracy. 
+Microsoft CNTK has integrations with major massive datasets, making it the 
+leading choice to be adopted by big players like Skype, Cortana, etc., with a 
+very expressive easy-to-use architecture as well. 
+Features 
+• Highly optimized to provide efficiency, scalability, speed, and high-
+level integrations 
+• Has built-in components such as hyperparameter tuning, supervised 
+learning models, reinforcement, CNN, RNN, etc. 
+• Resources are utilized to provide the best efficiency. 
+• Own networks that can be expressed efficiently such as full APIs, both 
+high level and low level 
+Pros 
+• As it supports Python and C++, this framework can work with 
+multiple servers at once and hence makes the learning process 
+quicker. 
+• It has been developed keeping in mind the recent developments in 
+the world of AI. Microsft CNTK’s architecture supports GAN, RNN, and 
+CNN. 
+• It permits distributed training to train machine models effectively. 
+Cons 
+• It lacks a visualization board and mobile ARM support. 
+Caffe 
+ 
+Caffe is a deep learning network that comes along with the preloaded set 
+of trained neural networks. This should be your first pick if your deadline is 
+close. 
+Known for its image processing capabilities, this framework also has 
+extended support of MATLAB. 
+Features 
+• All of its models are written in plaintext schemas 
+• It offers massive speed and highly efficient work since it is already 
+preloaded. 
+• An active open source community for discussion and collaborative 
+code. 
+Pros 
+• Interlinking C, C++, and Python, it also supports the modeling of 
+CNN(convolutional neural networks) 
+• Efficient when computing numerical tasks due to its speed. 
+Cons 
+• Caffe is not capable of handling complex data but is comparatively 
+fast while handling the visual processing of images. 
+Theano 
+ 
+Using GPUs in place of CPU, this framework supports deep learning 
+research and is capable of delivering accuracy for networks that need high 
+computational power. For instance, the computation of multi-dimensional 
+arrays requires high power, and Theano is capable of that. 
+Theano is based on python, which is a proven programming language 
+when it comes to faster processing and response. 
+Features 
+• Evaluation of expressions is faster due to dynamic code generation 
+• It provides an excellent accuracy ratio, even when values are minimal. 
+• Unit testing is a significant feature of Theano, as it allows the user to 
+self-verify their code as well as to detect and diagnose errors easily. 
+Pros 
+• Theano offers efficient support for all the data-intensive applications 
+but requires combining with other libraries. 
+• It is efficiently optimized for the CPU as well as the GPU. 
+Cons 
+• There will be no more updates or addition of features to the current 
+version of Theano. 
+ Amazon machine learning 
+ 
+Being a trending entrant to the AI community, Amazon machine 
+learning offers high-end support in the development of self-learning tools. 
+This framework already has existing user base in its multiple services like 
+AWS, S3, and Amazon Redshift. This is a managed service by Amazon, with 
+three operations performed on the model, which are data analysis, training 
+of the model, and evaluation. 
+Features 
+• There are tailored Tools for every level of experience in the AWS even 
+if you are a beginner, data scientist, or developer 
+• Security is of utmost importance, so all data is encrypted 
+• Provides extensive tools for data analysis and comprehension 
+• Integrations with all major datasets 
+Pros 
+• You don’t need to write a lot of code with this framework. Instead, it 
+lets you interact with the AI-powered framework via APIs. 
+• Commonly used by data scientists, developers, and ML researchers. 
+Cons 
+• It lacks flexibility as the entire framework is abstracted, so if you’d like 
+to choose a particular normalization or machine learning algorithm, 
+you can’t. 
+• It also lacks data visualization. 
+Torch 
+ 
+The Torch is an open-source framework that could support numerical 
+operations. It offers numerous algorithms for the faster development of 
+deep learning networks. 
+It is used extensively in the AI labs of Facebook and Twitter. There is a 
+python based framework known as PyTorch, which has proven to be 
+simpler and more reliable. 
+Features 
+• Features a lot of routines to index, slice, transpose with an N-
+dimensional array model 
+• Optimization routines are present, primarily numeric based with 
+neural network models 
+• GPU support is highly efficient 
+• Integrates easily with the iOS and Andriod 
+Pros 
+• Very high flexibility regarding languages and integrations 
+• High level of speed and GPU utilization efficiency 
+• Pre-existing models are available to train the data on. 
+Cons 
+• Documentation is not very clear to the users, so it presents a steeper 
+learning curve 
+• Lack of code for immediate use, so it takes time. 
+• It is initially based on a programming language called Lua, and not 
+many are aware of it. 
+ 
+",1
+5,"About AI  
+ 
+Artificial intelligence is the intelligence possessed and demonstrated by machines.  AI is the simulation 
+of human intelligence in machines that are programmed to think like humans and mimic their actions. AI 
+can also be applied to any machine that displays the traits applied to human mind such as learning and 
+problem solving.  AI is the ability of the machines to perform certain tasks that require intelligence when 
+done by humans and animals. A computer is said to have AI if it can think humanly, act humanly, think 
+rationally and act rationally. The term AI was first coined by Marvin Minsky and John McCarthy in 1950s 
+who are known as fathers of AI. AI is a large field which composes of machine learning and deep 
+learning. The most common applications of AI are robots, voice assistants, chat bots, recommendation 
+systems, prediction systems, classification systems, search engines, games etc. 
+Machine Learning 
+Machine learning is one of the most promising approaches to AI. It allows system to perform certain 
+tasks by learning from past data instead of being explicitly programmed. In ML, A computer program is 
+said to learn from experience E with respect to some class of tasks T and performance measure P if it 
+performs tasks in T, as measured by P and improves with E. Components of Machine learning includes 
+Data, model, learning and application. 
+Types of Machine Learning: 
+1) Supervised Machine Learning 
+In supervised learning, you pass the samples containing the input features and their desired 
+outputs to the machine learning model for training. The model then learns a mapping from the 
+input features to the desired output. You aim to produce an accurate enough mapping so that 
+the algorithm can predict the output as correctly as possible whenever a new test input is given. 
+As the desired output passed during the training supervises the model to learn the required 
+mapping, this learning method is called supervised learning 
+ 
+2) Unsupervised Machine Learning: 
+As opposed to supervised learning, in unsupervised learning, you pass the samples containing 
+only the input features to the machine learning model. The model then extracts different useful 
+features and patterns from the data. As the desired output is no longer supervising the learning 
+process, this learning method is called unsupervised learning. 
+ 
+3) Reinforcement Learning: 
+Reinforcement Learning is the type of machine learning where the machine learns on its own 
+using observations gathered from the interaction with its environment to take actions that 
+would maximize the reward or minimize the risk. 
+",1
+6,"About AI 
+Artificial Intelligence (AI) is the process of making machine intelligent and capable to do works 
+humans do. It is a technique in which a machine becomes intelligent after experience at some 
+work. It is a booming field in present time as it can be used to automate works humans do. 
+Supervised Learning is a technique in AI in which the data is labelled and the data is either done 
+classification or regression task.  The model is trained until it can detect the underlying patterns 
+and relationships between the input data and the output labels, enabling it to yield accurate 
+labeling results when presented with never-before-seen data. Supervised learning is good at 
+classification and regression problems, such as determining what category a news article 
+belongs to or predicting the volume of sales for a given future date. In supervised learning, the 
+aim is to make sense of data within the context of a specific question. 
+In contrast to supervised learning is unsupervised learning. In this approach, the algorithm is 
+presented with unlabeled data and is designed to detect patterns or similarities on its own. It 
+can be done by different clustering algorithms. 
+The chief difference between unsupervised and supervised learning is in how the algorithm 
+learns. In unsupervised learning, the algorithm is given unlabeled data as a training set. Unlike 
+in supervised learning, there are no correct output values; the algorithm determines the 
+patterns and similarities within the data, as opposed to relating it to some external 
+measurement. In other words, algorithms are able to function freely in order to learn more 
+about the data and find interesting or unexpected findings that human beings weren't looking 
+for. Unsupervised learning is popular in applications of clustering (the act of uncovering groups 
+within data) and association (the act of predicting rules that describe the data). 
+Terms in AI: 
+Artificial Intelligence, Data Science, NLP, clustering, regression, classification, algorithm, labels, 
+row, column, features, keras, matplotlib, TensorFlow. 
+AI Frameworks: 
+• 
+Tensor Flow. 
+Hailing from the Google family, Tensor Flow proves to be a robust open-source 
+framework that supports deep learning and which can be accessed even from a mobile 
+device. 
+Tensor flow is considered an apt tool for statistic program development. As it offers 
+distributed training, machine models can be trained a lot more effectively at any level of 
+abstraction that the user prefers. 
+Features 
+• 
+A scalable multi programming interface for easy programming 
+• 
+Strong growth drivers, with a strong open-source community 
+• 
+Provides extensive and well-documented manuals for people 
+Pros 
+• 
+The language used by tensor flow is Python, which is very popular nowadays. 
+• 
+This framework is capable of high computational power. Hence, it can be used on any 
+CPU or GPU. 
+• 
+Uses computational graph abstraction to create machine models 
+Cons 
+• 
+To make a decision or prediction, the framework passes the input data through multiple 
+nodes. This can be time-consuming. 
+• 
+It also lacks many of the pre-trained models of AI. 
+ 
+• 
+Microsoft CNTK. 
+Microsoft CNTK is a faster and more versatile open-source framework that is based on 
+neural networks that support text, message, and voice remodeling. 
+It provides an efficient scaling environment due to a faster overall evaluation of the 
+machine models while taking care of accuracy. 
+Microsoft CNTK has integrations with major massive datasets, making it the leading 
+choice to be adopted by big players like Skype, Cortana, etc., with a very expressive 
+easy-to-use architecture as well. 
+Features 
+• 
+Highly optimized to provide efficiency, scalability, speed, and high-level integrations 
+• 
+Has built-in components such as hyperparameter tuning, supervised learning models, 
+reinforcement, CNN, RNN, etc. 
+• 
+Resources are utilized to provide the best efficiency. 
+• 
+Own networks that can be expressed efficiently such as full APIs, both high level and low 
+level 
+Pros 
+• 
+As it supports Python and C++, this framework can work with multiple servers at once 
+and hence makes the learning process quicker. 
+• 
+It has been developed keeping in mind the recent developments in the world of AI. 
+Microsoft CNTK’s architecture supports GAN, RNN, and CNN. 
+• 
+It permits distributed training to train machine models effectively. 
+Cons 
+• 
+It lacks a visualization board and mobile ARM support. 
+ 
+• 
+Caffe. 
+Caffe is a deep learning network that comes along with the preloaded set of trained 
+neural networks. This should be your first pick if your deadline is close. 
+Known for its image processing capabilities, this framework also has extended support 
+of MATLAB. 
+Features 
+• 
+All of its models are written in plaintext schemas 
+• 
+It offers massive speed and highly efficient work since it is already preloaded. 
+• 
+An active open-source community for discussion and collaborative code. 
+Pros 
+• 
+Interlinking C, C++, and Python, it also supports the modeling of CNN(convolutional 
+neural networks) 
+• 
+Efficient when computing numerical tasks due to its speed. 
+Cons 
+• 
+Caffe is not capable of handling complex data but is comparatively fast while handling 
+the visual processing of images. 
+ 
+• 
+Theano. 
+• 
+Amazon machine learning. 
+• 
+Torch. 
+• 
+Accord.Net. 
+• 
+Apache Mahout. 
+ 
+ 
+ 
+ 
+",1
+7,"About AI
+Artiﬁcial intelligence is a conglomeration of concepts and technologies that
+means different things to different people – self-driving cars, robots that
+impersonate humans, machine learning, and more – and its applications are
+everywhere you look. An AI is a computer system that is able to perform tasks
+that ordinarily require human intelligence. These artiﬁcial intelligence
+systems are powered by machine learning. Many of them are powered by
+machine learning, some of them are speciﬁcally powered by deep learning,
+some of them are powered by very boring things like just rules. The effects of
+AI will be magniﬁed in the coming decade, as manufacturing, retailing,
+transportation, ﬁnance, healthcare, law, advertising, insurance, entertainment,
+education, and virtually every other industry transform their core processes
+and business models to take advantage of machine learning.
+Supervised learning involves machine learning algorithms that learn under
+the presence of a supervisor. Learning under supervision directly translates to
+being under guidance and learning from an entity that is in charge of
+providing feedback through this process. Unsupervised learning is commonly
+used for ﬁnding meaningful patterns and groupings inherent in data,
+extracting generative features, and for exploratory purposes.
+AI frameworks provide data scientists, AI developers, and researchers the
+building blocks to architect, train, validate, and deploy models, through a
+high-level programming interface.the CAHAI (Ad hoc Committee on Artiﬁcial
+Intelligence) has explored the reasons as to why a legal framework on the
+development, design and application of AI, based on Council of Europe’s
+standards on human rights, democracy and the rule of law is needed.
+",1
+8,"AboutAI
+Pratirodh Resistance
+June 2022
+1
+About AI
+1.1
+What is AI
+Artificial intelligence (AI) is a wide-ranging branch of computer science con-
+cerned with building smart machines capable of performing tasks that typically
+require human intelligence.
+Examples of AI are
+1. Siri,Alexa
+2. Self driving cars
+3. Conversational Bots
+4. Netflix’s recommendation
+1.2
+Supervised Learning
+Supervised learning, as the name indicates, has the presence of a supervisor as
+a teacher. Basically supervised learning is when we teach or train the machine
+using data that is well labelled.
+Which means some data is already tagged
+with the correct answer. After that, the machine is provided with a new set of
+examples(data) so that the supervised learning algorithm analyses the training
+data(set of training examples) and produces a correct outcome from labelled
+data.
+Some examples of supervised learning algorithms
+1. Linear regression
+2. Logistic regression
+3. Support vector machine
+1
+1.3
+Unsupervised Learning
+Unsupervised Learning is a machine learning technique in which the users do
+not need to supervise the model.
+Instead, it allows the model to work on
+its own to discover patterns and information that was previously undetected.
+It mainly deals with the unlabelled data. Unsupervised Learning Algorithms
+allow users to perform more complex processing tasks compared to supervised
+learning. Although, unsupervised learning can be more unpredictable compared
+with other natural learning methods. Unsupervised learning algorithms include
+clustering, anomaly detection, neural networks, etc.
+1.4
+Technologies related to AI
+1. Natural Language generation
+2. Speech recognition
+3. Robotic process automation
+4. Machine learning platforms
+5. Deep learning platforms
+6. Virtual agents
+1.5
+Frameworks for AI
+1. Tensorflow
+2. Caffe
+3. Theano
+4. Tourch
+5. Accord.Net
+6. Spark MLib
+2
+",1
+9,"About AI: 
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural 
+intelligence displayed by animals including humans. AI research has been defined as the field of study 
+of intelligent agents, which refers to any system that perceives its environment and takes actions that 
+maximize its chance of achieving its goals. The term ""artificial intelligence"" had previously been used to 
+describe machines that mimic and display ""human"" cognitive skills that are associated with the human 
+mind, such as ""learning"" and ""problem-solving"". This definition has since been rejected by major AI 
+researchers who now describe AI in terms of rationality and acting rationally, which does not limit how 
+intelligence can be articulated. 
+Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. 
+Basically supervised learning is when we teach or train the machine using data that is well labelled. 
+Which means some data is already tagged with the correct answer. After that, the machine is provided 
+with a new set of examples(data) so that the supervised learning algorithm analyses the training data(set 
+of training examples) and produces a correct outcome from labelled data. Unsupervised learning is the 
+training of a machine using information that is neither classified nor labeled and allowing the algorithm 
+to act on that information without guidance. Here the task of the machine is to group unsorted 
+information according to similarities, patterns, and differences without any prior training of data. 
+Reinforcement learning differs from supervised learning in not needing labelled input/output pairs be 
+presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on 
+finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge). 
+Machine learning is how AI technology learns and gets smarter on its own.In machine learning, a human 
+trains a machine to achieve an outcome, using data prepared by the human. Using what it learned from the 
+human, the machine then goes and tries to achieve the outcome using data it's never seen before. Every 
+time the machine tries to achieve the outcome, it learns from the results—even if they're bad. And it 
+applies these learnings to its next attempt. In this way, the machine uses machine learning to rapidly 
+improve at a task without direct human involvement. Pattern recognition is when machines detect pattens 
+in data. These patterns help machines better optimize towards outcomes, which makes pattern recognition 
+a key function in machine learning. Pattern recognition is also what powers AI's predictive capabilities. A 
+machine uses patterns in historical data to predict which future outcomes are most likely. Natural 
+language generation is when AI writes or speaks human-sounding language. Natural language 
+generation powers everything from writing tools to smart home assistants to chatbots. It makes it possible 
+to converse with machines. Natural language processing is when AI interprets what human language 
+means. To do NLG, a machine must use natural language processing to first understand written or spoken 
+language. For instance, Google Translate uses NLP to understand the text you type, then generate its 
+translation in whatever language you select. 
+ 
+ 
+Image recognition is when AI accurately identifies objects in photos. Using machine learning, AI 
+systems can identify objects in images with a high degree of accuracy. The AI system is trained on 
+millions or billions of images to detect certain objects. Trained well, it can then go and recognize those 
+objects in images it hasn't seen before. One example of image recognition used today is in radiology. AI 
+is able to identify certain tumors with a high degree of accuracy better, faster, and cheaper than humans. 
+ 
+ 
+AI frameworks provide data scientists, AI developers, and researchers the building blocks to 
+architect, train, validate, and deploy models, through a high-level programming interface. Hailing from 
+the Google family, Tensor Flow proves to be a robust open-source framework that supports deep learning 
+and which can be accessed even from a mobile device. Microsoft CNTK is a faster and more versatile 
+open-source framework that is based on neural networks that support text, message, and voice 
+remodeling. It provides an efficient scaling environment due to a faster overall evaluation of the machine 
+models while taking care of accuracy. Caffe is a deep learning network that comes along with the 
+preloaded set of trained neural networks. This should be your first pick if your deadline is close. Known 
+for its image processing capabilities, this framework also has extended support of MATLAB. Using 
+GPUs in place of CPU, this framework supports deep learning research and is capable of delivering 
+accuracy for networks that need high computational power. For instance, the computation of multi-
+dimensional arrays requires high power, and Theano is capable of that. Theano is based on python, which 
+is a proven programming language when it comes to faster processing and response. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+",1
+10,"ABOUT AI 
+AI is a branch of computer science that deals with making machine works like human. Artificial 
+intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence 
+displayed by animals including humans. AI research has been defined as the field of study of 
+intelligent agents, which refers to any system that perceives its environment and takes actions that 
+maximize its chance of achieving its goals. 
+ 
+Within artificial intelligence (AI) and machine learning, there are two basic approaches: supervised 
+learning and unsupervised learning. Supervised learning is a machine learning approach that’s 
+defined by its use of labeled datasets. These datasets are designed to train or “supervise” 
+algorithms into classifying data or predicting outcomes accurately. Unsupervised learning uses 
+machine learning algorithms to analyze and cluster unlabeled data sets. These algorithms discover 
+hidden patterns in data without the need for human intervention. 
+ 
+Adversarial machine learning is a technique employed in the field of machine learning that 
+attempts to make models more robust by exposing them to adversarial (and sometimes malicious) 
+input. AI frameworks make the creation of machine learning/deep learning, neural networks, and 
+natural language processing (NLP) applications easier and faster by offering ready solutions. Some 
+of the most popular open-source frameworks include TensorFlow, Theano, PyTorch, Sci-Kit, Keras, 
+Microsoft Cognitive ToolKit and Apache Mahout.Deep learning is an artificial intelligence function 
+that imitates the workings of the human brain in processing data and creating patterns for use in 
+decision making. Deep learning is a subset of machine learning in AI that has networks capable of 
+learning unsupervised from data that is unstructured or unlabeled. Also known as deep neural 
+learning or deep neural network. Machine learning is a branch of AI that allows systems to 
+automatically process data and analyze for insights without being programmed explicitly. Machine 
+learning is concerned with learning functions and patterns to do things like classification and 
+prediction. NLP is concerned with information retrieval, text mining, question answering, machine 
+translation, intent understanding, sentiment, emotion, tone extraction in text. It is a branch of AI 
+which uses algorithms to train machines in responding to human conversations. 
+ 
+AI frameworks provide data scientists, AI developers, and researchers the building blocks to 
+architect, train, validate, and deploy models, through a high-level programming interface. 
+TensorFlow is a Python library that invokes C++ to construct and execute dataflow graphs. Scikit-
+learn is an open source, commercially usable AI library. Another Python library, scikit-learn supports 
+both supervised and unsupervised machine learning. 
+ 
+",1
+11,"What is Artificial Intelligence (AI)? 
+AI is the study of how to make computers do things which at the moment people do better. In general it 
+is the branch of computer science that deals with helping machines find solutions to complex problems 
+in a more human-like fashion. 
+Supervised learning: 
+- 
+Inferring a function from training data that consists of training examples. Eg: classification 
+- 
+It learns from available data and predicts unforeseen data. 
+Unsupervised learning 
+- 
+Finding hidden structure in unlabeled data. There is no distinction between explanatory and 
+dependent variables. Eg: clustering 
+Frameworks of AI: include Tensorflow, keras, Pytorch, Theano, Microsoft Cognitive Toolkit, caffe, 
+Amazon ML, Torch, Apache Mahaout, Spark Mlib, Accord dot net 
+Terminologies: Artificial Learning, Deep Learning, Neural Network, Supervised Learning, Unsupervised 
+Learning, Reinforcement Learning, Natural Language Processing 
+",1
+12,"About AI 
+Artificial Intelligence, also known as AI, is the ability of a digital computer or computer-controlled 
+robot to perform tasks commonly associated with intelligent beings. Artificial intelligence (AI) 
+refers to the simulation of human intelligence in machines that are programmed to think like 
+humans and mimic their actions. The term may also be applied to any machine that exhibits traits 
+associated with a human mind such as learning and problem-solving. 
+The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that 
+have the best chance of achieving a specific goal. A subset of artificial intelligence is machine 
+learning, which refers to the concept that computer programs can automatically learn from and 
+adapt to new data without being assisted by humans. Deep learning techniques enable this 
+automatic learning through the absorption of huge amounts of unstructured data such as text, 
+images, or video. 
+In Supervised learning, you train the machine using data which is well “labeled.” It means some 
+data is already tagged with the correct answer. It can be compared to learning which takes place 
+in the presence of a supervisor or a teacher. A supervised learning algorithm learns from labeled 
+training data, helps you to predict outcomes for unforeseen data. Successfully building, scaling, 
+and deploying accurate supervised machine learning Data science model takes time and technical 
+expertise from a team of highly skilled data scientists. Moreover, Data scientist must rebuild 
+models to make sure the insights given remains true until its data changes. 
+Unsupervised learning is a machine learning technique, where you do not need to supervise the 
+model. Instead, you need to allow the model to work on its own to discover information. It mainly 
+deals with the unlabeled data. 
+Unsupervised learning algorithms allow you to perform more complex processing tasks compared 
+to supervised learning. Although, unsupervised learning can be more unpredictable compared with 
+other natural learning deep learning and reinforcement learning methods. 
+The applications for artificial intelligence are endless. The technology can be applied to many 
+different sectors and industries. AI is being tested and used in the healthcare industry for dosing 
+drugs and different treatment in patients, and for surgical procedures in the operating room. 
+Frameworks of AI include Tensorflow, Pytorch, Keras, Theano, Microsoft Cognitive Toolkit, 
+Caffe, Amazon Machine Learning, Torch, Accord.Net, Apache Mahout, Spark Mlib 
+Terminologies related to AI: Natural Language Processing (NLP), Artificial Intelligence (AI), 
+Machine Learning, Deep Learning, Neural Network, Supervised Learning, Unsupervised 
+Learning, Reinforcement Learning 
+",1
+13,"About AI 
+While a number of definitions of artificial intelligence (AI) have surfaced over the last few decades, John 
+McCarthy offers the following definition in this 2004 paper (PDF, 106 KB) (link resides outside IBM), "" It 
+is the science and engineering of making intelligent machines, especially intelligent computer programs. 
+It is related to the similar task of using computers to understand human intelligence, but AI does not 
+have to confine itself to methods that are biologically observable."" 
+Terminologies related to AI 
+Algorithms: A set of rules or instructions given to an AI, neural network, or other machines to help it 
+learn on its own; classification, clustering, recommendation, and regression are four of the most popular 
+types. 
+Artificial intelligence: A machine’s ability to make decisions and perform tasks that simulate human 
+intelligence and behavior. 
+Artificial neural network (ANN): A learning model created to act like a human brain that solves tasks that 
+are too difficult for traditional computer systems to solve. 
+Autonomic computing: A system's capacity for adaptive self-management of its own resources for high-
+level computing functions without user input. 
+Chatbots: A chat robot (chatbot for short) that is designed to simulate a conversation with human users 
+by communicating through text chats, voice commands, or both. They are a commonly used interface 
+for computer programs that include AI capabilities. 
+Classification: Classification algorithms let machines assign a category to a data point based on training 
+data. 
+Cluster analysis: A type of unsupervised learning used for exploratory data analysis to find hidden 
+patterns or grouping in data; clusters are modeled with a measure of similarity defined by metrics such 
+as Euclidean or probabilistic distance. 
+Clustering: Clustering algorithms let machines group data points or items into groups with similar 
+characteristics. 
+Cognitive computing: A computerized model that mimics the way the human brain thinks. It involves 
+self-learning through the use of data mining, natural language processing, and pattern recognition. 
+Convolutional neural network (CNN): A type of neural networks that identifies and makes sense of 
+images. 
+Data mining: The examination of data sets to discover and mine patterns from that data that can be of 
+further use. 
+Data science: An interdisciplinary field that combines scientific methods, systems, and processes from 
+statistics, information science, and computer science to provide insight into phenomenon via either 
+structured or unstructured data. 
+Decision tree: A tree and branch-based model used to map decisions and their possible consequences, 
+similar to a flow chart. 
+Deep learning: The ability for machines to autonomously mimic human thought patterns through 
+artificial neural networks composed of cascading layers of information. 
+Fluent: A type of condition that can change over time. 
+Game AI: A form of AI specific to gaming that uses an algorithm to replace randomness. It is a 
+computational behavior used in non-player characters to generate human-like intelligence and reaction-
+based actions taken by the player. 
+Genetic algorithm: An evolutionary algorithm based on principles of genetics and natural selection that 
+is used to find optimal or near-optimal solutions to difficult problems that would otherwise take decades 
+to solve. 
+Heuristic search techniques: Support that narrows down the search for optimal solutions for a problem 
+by eliminating options that are incorrect. 
+Knowledge engineering: Focuses on building knowledge-based systems, including all of the scientific, 
+technical, and social aspects of it. 
+Logic programming: A type of programming paradigm in which computation is carried out based on the 
+knowledge repository of facts and rules; LISP and Prolog are two logic programming languages used for 
+AI programming. 
+Machine intelligence: An umbrella term that encompasses machine learning, deep learning, and classical 
+learning algorithms. 
+Machine learning:  A facet of AI that focuses on algorithms, allowing machines to learn without being 
+programmed and change when exposed to new data.  
+Machine perception: The ability for a system to receive and interpret data from the outside world 
+similarly to how humans use our senses. This is typically done with attached hardware, though software 
+is also usable. 
+Natural  language  processing: The ability for a program to recognize human communication as it is 
+meant to be understood.  
+Recurrent neural network (RNN): A type of neural network that makes sense of sequential information 
+and recognizes patterns, and creates outputs based on those calculations. 
+ 
+Supervised and Unsupervised Learning: 
+Supervised learning: A type of machine learning in which output datasets train the machine to generate 
+the desired algorithms, like a teacher supervising a student; more common than unsupervised learning. 
+ 
+Swarm behavior: From the perspective of the mathematical modeler, it is an emergent behavior arising 
+from simple rules that are followed by individuals and does not involve any central coordination. 
+ 
+Unsupervised learning: A type of machine learning algorithm used to draw inferences from datasets 
+consisting of input data without labeled responses. The most common unsupervised learning method is 
+cluster analysis. 
+Frameworks of AI: Tensorflow, keras, Pytorch, Theano, Microsoft Cognitive Toolkit, caffe, 
+Amazon ML, Accord dot net, Apache Mahaout. 
+",1
+14,"About AI 
+Artificial Intelligence (AI) is rapidly transforming our world. Remarkable surges in AI capabilities have 
+led to a wide range of innovations including autonomous vehicles and connected Internet of Things 
+devices in our homes. AI is even contributing to the development of a brain-controlled robotic arm that 
+can help a paralyzed person feel again through complex direct human-brain interfaces. These new AI-
+enabled systems are revolutionizing and benefitting nearly all aspects of our society and economy – 
+everything from commerce and healthcare to transportation and cyber security. But the development 
+and use of the new technologies it brings are not without technical challenges and risks. AI and 
+Machine Learning (ML) is changing the way in which society addresses economic and national 
+security challenges and opportunities. It is being used in genomics, image and video processing, 
+materials, natural language processing, robotics, wireless spectrum monitoring and more. These 
+technologies must be developed and used in a trustworthy and responsible manner. 
+Algorithm 
+An algorithm is a formula representing the relationship between certain variables. Think of algorithms 
+as a simple set of instructions with a finite end designed to produce an output. An everyday example 
+of an algorithm is a recipe. You have a set amount of inputs (ingredients) designed to produce a 
+repeatable output — apple pie, for example. Machine learning programs in AI use algorithms to make 
+predictions, and in the case of marketing, suggestions are based on algorithms that hope to target the 
+user’s specific preferences (if website visitor ‘A’ visits pages for kid’s short sleeve shirts an algorithm 
+will email them coupons for kid’s short sleeve shirts). 
+Chatbots 
+A chatbot is a program that runs within websites and apps that interacts directly with users to help 
+them with simple tasks. A “conversation” happens between the user and the computer program. These 
+are often currently used for customer support, but the applications for chatbots are growing. 
+Cluster 
+Any group of people or things that share a common characteristic. Data is combed through by AI to 
+uncover patterns and connections that humans might not readily see. Clusters can be used to identify 
+target segments or audiences, creating marketing opportunities through commonalities. 
+Cognitive science 
+The broader form of study that includes AI in addition to philosophy, linguistics, psychology, 
+neuroscience, and anthropology. All of these combine together to learn how the mind functions and, 
+when applied to AI, how machines can simulate human thought and action. 
+Machine learning 
+With limited need for programming, machines can teach themselves. Combing through massive 
+amounts of data allows AI to identify patterns and groupings. This could be used to determine target 
+audiences, decide on optimal times to send emails, or segment out groupings for deeper engagement. 
+Deep learning 
+In this advanced version of machine learning, computers actually teach themselves with minimal 
+programming by humans. Marketers can use deep learning to identify data and make predictions 
+related to how consumers might behave.  
+Image recognition (or “computer vision”) 
+One of the more complicated processes for machine learning, computers can be programmed to 
+understand what is happening in an image. AI searches for patterns within images to quickly identify 
+nuances that humans may not see. 
+Natural Language Processing (NLP) 
+This technology allows machines to determine what humans are saying, whether in text or by voice. 
+More sophisticated programs can decipher speech in various languages, understanding not only the 
+actual vocabulary, but also pulling out context and more hidden meanings. Sarcasm and subtlety are 
+still difficult for AI, but advanced technology is working on it. 
+Neural networks 
+Structured to be similar to the human brain, this AI model incorporates natural language processing 
+and deep learning to identify faces in photos and analyze handwriting. 
+Semantic analysis 
+A more sophisticated form of Natural Language Processing, this concept is focused on the process of 
+stringing words together as well as the way that language is understood through cultural context. This 
+could function as a help to create eBooks and blog posts, with the potential to replace human writers 
+or content marketers (!). Wait, what? 
+TensorFlow™ is an open source software library for numerical computation using data flow graphs. 
+Nodes in the graph represent mathematical operations, while the graph edges represent the 
+multidimensional data arrays (tensors) communicated between them. The flexible architecture allows 
+you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a 
+single API. TensorFlow was originally developed by researchers and engineers working on the Google 
+Brain Team within Google's Machine Intelligence research organization for the purposes of conducting 
+machine learning and deep neural networks research, but the system is general enough to be 
+applicable in a wide variety of other domains as well. 
+PyTorch is an open source machine learning framework based on the Torch library, used for 
+applications such as computer vision and natural language processing, primarily developed by Meta 
+AI. It is free and open-source software released under the Modified BSD license. Although 
+the Python interface is more polished and the primary focus of development, PyTorch also has 
+a C++ interface.  
+MindSpore is the AI computing framework. Fully developed by Huawei from the ground up, it 
+implements on-demand collaboration across the cloud-edge-device. It provides unified APIs and end-
+to-end AI capabilities for model development, execution, and deployment in all scenarios. 
+Using a distributed architecture, MindSpore leverages a native differentiable programming paradigm 
+and new AI native execution modes to achieve better resource efficiency, security, and 
+trustworthiness. Meanwhile, MindSpore makes full use of the computing power of Ascend AI 
+processors and lowers the entry requirements of industry AI development, bringing inclusive AI faster 
+to reality. 
+Supervised learning is an approach to creating artificial intelligence (AI), where a computer algorithm is 
+trained on input data that has been labeled for a particular output. The model is trained until it can 
+detect the underlying patterns and relationships between the input data and the output labels, enabling 
+it to yield accurate labeling results when presented with never-before-seen data. 
+Supervised learning is good at classification and regression problems, such as determining what 
+category a news article belongs to or predicting the volume of sales for a given future date. In 
+supervised learning, the aim is to make sense of data within the context of a specific question. 
+Unsupervised Learning is a machine learning technique in which the users do not need to supervise 
+the model. Instead, it allows the model to work on its own to discover patterns and information that 
+was previously undetected. It mainly deals with the unlabelled data. 
+Unsupervised Learning Algorithms allow users to perform more complex processing tasks 
+compared to supervised learning. Although, unsupervised learning can be more unpredictable 
+compared with other natural learning methods. Unsupervised learning algorithms include clustering, 
+anomaly detection, neural networks, etc. 
+",1
+15,"About AI
+Sudeep Casichhwa
+June 2022
+1
+Introduction
+Artificial intelligence is the simulation of human intelligence processes by ma-
+chines, especially computer systems. Specific applications of AI include expert
+systems, natural language processing, speech recognition and machine vision.
+2
+How does AI work?
+As the hype around AI has accelerated, vendors have been scrambling to pro-
+mote how their products and services use AI. Often what they refer to as AI is
+simply one component of AI, such as machine learning. AI requires a foundation
+of specialized hardware and software for writing and training machine learning
+algorithms. No one programming language is synonymous with AI, but a few,
+including Python, R and Java, are popular.
+In general, AI systems work by ingesting large amounts of labeled training
+data, analyzing the data for correlations and patterns, and using these patterns
+to make predictions about future states.
+In this way, a chatbot that is fed
+examples of text chats can learn to produce lifelike exchanges with people, or
+an image recognition tool can learn to identify and describe objects in images
+by reviewing millions of examples.
+AI programming focuses on three cognitive skills: learning, reasoning and
+self-correction.
+processes: This aspect of AI programming focuses on acquiring data and
+creating rules for how to turn the data into actionable information. The rules,
+which are called algorithms, provide computing devices with step-by-step in-
+structions for how to complete a specific task.
+Reasoning processes: This aspect of AI programming focuses on choosing
+the right algorithm to reach a desired outcome.
+Self-correction processes: This aspect of AI programming is designed to con-
+tinually fine-tune algorithms and ensure they provide the most accurate results
+possible.
+1
+3
+AI Framework
+1. Tensor Flow Hailing from the Google family, Tensor Flow proves to be a
+robust open-source framework that supports deep learning and which can
+be accessed even from a mobile device.
+Tensor flow is considered an apt tool for statistic program development.
+As it offers distributed training, machine models can be trained a lot more
+effectively at any level of abstraction that the user prefers.
+Features
+(a) A scalable multi programming interface for easy programming
+(b) Strong growth drivers, with a strong open source community
+(c) Provides extensive and well-documented manuals for people
+Pros
+(a) The language used by tensor flow is Python, which is very popular
+nowadays.
+(b) This framework is capable of high computational power. Hence, it
+can be used on any CPU or GPU.
+(c) Uses computational graph abstraction to create machine models
+Cons
+To make a decision or prediction, the framework passes the input data
+through multiple nodes. This can be time-consuming. It also lacks many
+of the pre-trained models of AI.
+2. Microsoft CNTK Microsoft CNTK is a faster and more versatile open-
+source framework that is based on neural networks that support text,
+message, and voice remodeling.
+It provides an efficient scaling environment due to a faster overall evalua-
+tion of the machine models while taking care of accuracy.
+Microsoft CNTK has integrations with major massive datasets, making it
+the leading choice to be adopted by big players like Skype, Cortana, etc.,
+with a very expressive easy-to-use architecture as well.
+Features
+1. Highly optimized to provide efficiency, scalability, speed, and high-level
+integrations
+2. Has built-in components such as hyperparameter tuning, supervised learn-
+ing models, reinforcement, CNN, RNN, etc.
+3. Resources are utilized to provide the best efficiency.
+4. Own networks that can be expressed efficiently such as full APIs, both
+high level and low level.
+2
+",1
+16," 
+ 
+ 
+          Artificial Interlligence 
+ 
+Artificial Intelligence, also known as AI, is the ability of a digital computer or computer-
+controlled robot to perform tasks commonly associated with intelligent beings. Artificial 
+intelligence (AI) refers to the simulation of human intelligence in machines that are programmed 
+to think like humans and mimic their actions. The term may also be applied to any machine that 
+exhibits traits associated with a human mind such as learning and problem-solving. The ideal 
+characteristic of artificial intelligence is its ability to rationalize and take actions that have the 
+best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, 
+which refers to the concept that computer programs can automatically learn from and adapt to 
+new data without being assisted by humans. Deep learning techniques enable this automatic 
+learning through the absorption of huge amounts of unstructured data such as text, images, or 
+video.  
+ 
+ 
+ 
+ 
+ 
+Supervised learning 
+ 
+Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. 
+Basically supervised learning is when we teach or train the machine using data that is well 
+labelled. Which means some data is already tagged with the correct answer. After that, the 
+machine is provided with a new set of examples(data) so that the supervised learning algorithm 
+analyses the training data(set of training examples) and produces a correct outcome from labelled 
+data. 
+  
+  
+Unsupervised learning 
+ 
+Unsupervised learning is the training of a machine using information that is neither classified nor 
+labeled and allowing the algorithm to act on that information without guidance. Here the task of 
+the machine is to group unsorted information according to similarities, patterns, and differences 
+without any prior training of data.  
+Unlike supervised learning, no teacher is provided that means no training will be given to the 
+machine. Therefore the machine is restricted to find the hidden structure in unlabeled data by 
+itself.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terminologies related to AI 
+Natural Language Processing (NLP), Artificial Intelligence (AI), Machine Learning, Deep Learning, Neural 
+Network, Supervised Learning, Unsupervised Learning, Reinforcement Learning 
+ 
+ 
+ 
+        
+ 
+Framework of AI 
+Frameworks of AI include Tensorflow, Pytorch, Keras, Theano, Microsoft Cognitive Toolkit, Caffe, 
+Amazon Machine Learning, Torch, Accord.Net, Apache Mahout, Spark Mlib 
+",1
+0,"Webpage development
+Webpage development is the concept of developing websites for many
+enterprise to have the online presence that is essential these days for the
+survival of any big company and corporations so the initial concept is there
+are 2 ends front end and backend.
+Front end deals with the concept of having beautiful looking cover to show
+to users backend deals with concept of having really capable of processing
+parts of sites like engine inside the hood that is not seen but determines
+almost everything about a car
+",0
+1,"Webpage development
+Webpage development means developing websites having front end
+backend to support the working of websites dealing with various tools like
+html,css, js and many more.
+Html is used to design the cover of the webpages, CSS is used to design
+the styling of the site, and jss is used to design the overall working of the
+entire site.
+",0
+2,"Webpage development
+Webpage development means building sites capable of processing various
+requests and just giving the overall impression of having an online
+presence of a corporation. It basically comprises front end and backend
+and also is capable of showing the entire information of anything in the real
+world. It is done using html,css,js and many more.
+Webpages are present in a great deal and are nowadays a must for huge
+corporations and companies to be visible to everyone these days.
+",0
+3,"Webpage development
+Web development is the work involved in developing a website for the
+Internet or an intranet. Web development can range from developing a
+simple single static page of plain text to complex web applications,
+electronic businesses, and social network services.
+Frontend Development: The part of a website that the user interacts directly is termed
+as front end. It is also referred to as the ‘client side’ of the application.
+Backend Development: Backend is the server side of a website. It is the part of the
+website that users cannot see and interact. It is the portion of software that does not
+come in direct contact with the users. It is used to store and arrange data.
+",0
+4,"Web development 
+ 
+Web development refers to the building, creating, and maintaining of websites. It includes aspects 
+such as web design, web publishing, web programming, and database management. It is the 
+creation of an application that works over the internet i.e. websites. n a few words, web 
+development involves the creation and maintenance of websites. 
+Sharing of ideas as well as operate at any type of level on issue just how little or large is the 
+prime purpose offered by developers of internet sites. It might begin with the grass-root 
+academic level and rise to professional levels. Creating your very own websites has actually 
+come to be so practical now with the help of devices such as PHP Programs. With a website that 
+is developed in an excellent fashion, firms, and also companies as well as market their product or 
+services conveniently and also skillfully as well as help to improve their services. 
+Modern web development also includes web applications. Web applications are software 
+packages that run on a web server and are accessed through the internet. This is unlike a 
+traditional application that runs on your computer, tablet, or phone. 
+In this article, we'll walk you through everything you need to know about the basics of web 
+development which include front-end and back-end. 
+Front-end web development has to do with the interface that you, the user, interact with when 
+you visit a website or use a web application. Front-End Developers create everything you see on 
+a web page, including: 
+• 
+Colors 
+• 
+Layout 
+• 
+Navigation 
+Back-end web development has to do with the parts of a website that you can't see, particularly 
+how website information is stored and retrieved. 
+When you access a webpage in your browser, you're essentially requesting to see a file stored on 
+a server somewhere. When you load a webpage for the first time or sign into a website with a 
+username and password, it's Back-End Developers who make it possible to access website 
+information efficiently and securely. 
+ 
+ 
+A web framework is a code library that makes web development quicker and easier by giving 
+basic patterns for building reliable, scalable and maintainable web applications. Web frameworks 
+exist to make it easier for the developer to make a web application. 
+Here are several web frameworks that have been designed to make coding and app development 
+much easier for those in the industry. A few of the most popular and successful web frameworks 
+include: 
+• 
+Django  
+• 
+Ruby on Rails 
+These frameworks assist codes such as HTML, Ruby, and Python when it comes to constructing 
+web applications and web-based services. There are a variety of things that can be done with a 
+web framework, such as the generation of HTML, the formation of default templates, and the 
+ability to access a library of coding information to keep code simple and automated each time a 
+developer makes a new web application. 
+ 
+ 
+ 
+",0
+5,"Web Development 
+ 
+Web development is the work involved in developing a website for the Internet (World Wide 
+Web) or an intranet (a private network).[1] Web development can range from developing a simple 
+single static page of plain text to complex web applications, electronic businesses, and social 
+network services. A more comprehensive list of tasks to which Web development commonly 
+refers, may include Web engineering, Web design, Web content development, client 
+liaison, client-side/server-side scripting, Web server and network security configuration, and e-
+commerce development. 
+ 
+Among Web professionals, ""Web development"" usually refers to the main non-design aspects of 
+building Web sites: writing markup and coding.[2] Web development 
+may use content 
+management systems (CMS) to make content changes easier and available with basic technical 
+skills. 
+ 
+For larger organizations and businesses, Web development teams can consist of hundreds of 
+people (Web developers) and follow standard methods like Agile methodologies while 
+developing Web sites. Smaller organizations may only require a single permanent or contracting 
+developer, 
+or 
+secondary 
+assignment 
+to 
+related 
+job 
+positions 
+such 
+as 
+a graphic 
+designer or information systems technician. Web development may be a collaborative effort 
+between departments rather than the domain of a designated department. There are three kinds of 
+Web developer specialization: front-end developer, back-end developer, and full-stack 
+developer.[3] Front-end developers are responsible for behavior and visuals that run in the user 
+browser, while back-end developers deal with the servers. Since the commercialization of the 
+Web with Tim Berners-Lee[4] developing the World Wide Web at CERN, the industry has 
+boomed and has become one of the most used technologies ever. 
+ 
+Importance of Web Development 
+As human beings, we pride ourselves on our superb adaptation skills and ability to change with 
+the times. Stemming from this, when the social world shifted from a place of interpersonal 
+connections to internet connections, so did the world of business. There's no getting around it; 
+our digitally-driven lifestyle has given us little choice but to adapt to technology, and if you 
+haven't already, it's time to get a move on. It's a no-brainer; website development is now essential 
+to you as a business person. For your business to generate more business, your voice needs to be 
+heard, your brand needs to be seen, and your goals need to be reached. Website development is 
+the key to making those things happen. The same way an eye is the window to the soul, a 
+website is the window to the business, giving customers a taste of what you have to offer and 
+enticing them to delve deeper for more. 
+ 
+We are simple creatures in that we like convenience, and there's nothing more convenient than 
+accessing a whole host of information by simply clicking a button, which is what millions of 
+people do when they go online every day. If your product can't be found on the other side of that 
+click, you've already lost access to those millions of people, and your company effectively 
+doesn't exist. In conjunction with this, establishing a strong web presence as a business while 
+reaching millions of internet surfers who might become potential clients will elevate your 
+product to a universally compatible entity, even if the service you provide is physically localized 
+to a specific place. So what kind of information is valuable to showcase on your website, in order 
+to leave a maximal impact? 
+ 
+ 
+Front-end Development 
+Front end development is programming which focuses on the visual elements of a website or app 
+that a user will interact with (the client side). Meanwhile, back end development focuses on the 
+side of a website users can’t see (the server side). They work together to create a dynamic 
+website to allow users to make purchases, use contact forms, and any other interactive activities 
+you might participate in while browsing a site. Some examples of dynamic websites are Netflix, 
+PayPal, Facebook, and the Kenzie Academy site you’re currently on. 
+ 
+Back-End Development 
+ 
+Back-end Development refers to the server-side development. It focuses on databases, scripting, 
+website architecture. It contains behind-the-scene activities that occur when performing any 
+action on a website. It can be an account login or making a purchase from an online store. Code 
+written by back-end developers helps browsers to communicate with database information. 
+ 
+Frontend Vs. Backend 
+When you’re coding, you’ll use a programming language. Much like human languages, these 
+languages allow programmers to communicate with their computers through a series of symbols 
+(referred to as code). Very simply, it’s like giving your computer instructions. Front end 
+developers work in languages like HTML, CSS, and JavaScript.  
+ 
+HTML stands for Hyper Text Markup Language. It’s the standard markup language for creating 
+webpages.  
+ 
+CSS is short for Cascading Style Sheets. While HTML is used to create structure on a site, CSS 
+is used to bring style and flair. It defines a site’s colors, fonts, and the style of other site content.  
+ 
+JavaScript is a language that can be used to make a site interactive and fun. You can use it to run 
+a game on your site, to name one example.  
+Front end also works in its own set of frameworks and libraries. Here are just a few of the 
+frameworks and libraries a front end developer would work with:  
+ 
+AngularJS 
+ 
+React.js 
+ 
+jQuery 
+ 
+Sass 
+Back end developers work in languages like PHP, C++, Java, Ruby, Python, JavaScript, and 
+Node.js. Here’s a bit more on a few of these languages:  
+ 
+PHP is a server-side scripting language.  
+ 
+Java is a highly popular platform and programming language.  
+ 
+Python is a general-purpose coding language. It’s different from some of the others we’ve 
+mentioned here because it can be used for other kinds of software development and isn’t limited 
+solely to web development.  
+Back end frameworks include: 
+ 
+Express 
+ 
+Django 
+ 
+Rails 
+ 
+Laravel 
+ 
+Spring 
+Framework 
+A web development framework is a set of resources and tools for software developers to build 
+and manage web applications, web services and websites. 
+Such a framework includes templating capabilities for presenting information within a browser, 
+the programming environment for scripting the flow of information and the application 
+programming interfaces (APIs) for accessing underlying data resources. The framework also 
+provides the foundations and system-level services for software developers to build a content 
+management system (CMS) for managing digital information on the Web. Developers can use 
+the framework to define the 'out-of-the-box' content management capabilities, user authentication 
+features, and administrative tools.  
+A web development framework can be built upon a pre-defined infrastructure such as the Linux, 
+Apache, MySQL and PHP (LAMP) stack.Once defined and implemented the core CMS features 
+and functions can be difficult to modify. 
+ 
+ 
+",0
+6,"Web development is the work involved in developing a website for the Internet (World Wide Web) or an 
+intranet (a private network). Web development can range from developing a simple single static page of plain 
+text to complex web applications, electronic businesses, and social network services. A more comprehensive 
+list of tasks to which Web development commonly refers may include Web engineering, Web design, Web 
+content development, client liaison, client-side/server-side scripting, Web server and network security 
+configuration, and e-commerce development. 
+The website development process defines the functionality, applicability, and general functioning of your 
+website. A user-friendly user interface on a website will result in a considerably greater conversion rate, 
+which will translate into more business and profits. This is accomplished through the use of exceptional web 
+design on a developer's website. Optimization of the website to increase its search engine presence will 
+guide this decision-making process. Web design enables you to build and maintain consistency across all 
+sections of your website, which is important for SEO. 
+  
+The company owner can select the photographs that will be used by contacting a competent web designer. 
+SEO is a critical component of the web building process that must be handled with attention. Through this 
+optimization, the website appears when different searches are entered into the search engine. This means 
+the website receives more hits from search engine results pages and increases its visibility. The amount of 
+money a business makes is directly proportional to the volume of sales it produces. 
+  
+The creation and effective promotion of a website may help a business attract more customers and increase 
+sales. According to the research, eCommerce operations climbed by 21.3 percent in the previous calendar 
+year. A well-designed website is essential for reaching a larger audience and generating more leads or 
+customers. A pleasant user experience and an easy-to-understand website design will encourage customers 
+to spend more time on your website and learn more about the products and services you provide. Web 
+development and design help to promote a company's brand name. 
+  
+Profits and revenues rise as a result of this development. The same method may be used by using ReactJS 
+development services for blogs or any other custom web development service, such as Adobe Illustrator or 
+Photoshop. 
+",0
+7,"Abotut Web
+Web development refers to the building, creating, and maintaining of web-
+sites. It includes aspects such as web design, web publishing, web program-
+ming, and database management. It is the creation of an application that
+works over the internet i.e. websites.
+In the process of Web Development, Developers build web pages and
+applications for either the Intranet, a private network, or the Internet. Web
+Development does not necessarily focus on a website‘s design; rather, it is
+majorly concerned with the programming and coding part, which is the main
+reason for the functioning of the website.
+It refers to developing and maintaining web pages, including bits and
+pieces of concepts like web design, web programming, web publishing, and
+database management. Further, it includes various types of web development
+tools and techniques such as text editors for manually coding the websites,
+Dreamweaver for developing a web page, using a blogging website to update
+blogs, and more.
+Web Development frameworks are created by Developers to make it easier
+to develop and work with various programming languages. These frameworks
+basically remove all the redundant and difficult tasks that are involved in
+the process of setting up a web page. The frameworks either do the tasks
+themselves or make it easier for Developers to complete those tasks.
+The frontend refers to technologies presented on the front side of a website
+or a web application, meaning it‘s a client-facing interface for users to move
+around with elements like a computer browser, buttons, and text.
+The backend refers to the technology and interface that runs in the back-
+ground of a website or web application to either produce a completely server-
+facing interface or make the frontend possible. The backend is server-facing,
+often never seen by users.
+1
+",0
+8,"Web Development 
+Web development refers to the building, creating, and maintaining of websites. It includes aspects such 
+as web design, web publishing, web programming, and database management. It is the creation of an 
+application that works over the internet i.e. websites. 
+ 
+The word Web Development is made up of two words, that is: 
+ 
+Web: It refers to websites, web pages or anything that works over the internet. 
+Development: Building the application from scratch. 
+  
+ 
+Web Development can be classified into two ways: 
+ 
+1. Frontend Development 
+2. Backend Development 
+ 
+1. Frontend Development  
+Frontend Roadmap: Frontend Development Roadmap 
+HTML: HTML stands for Hyper Text Markup Language. It is used to design the front end portion 
+of web pages using markup language. It acts as a skeleton for a website since it is used to make 
+the structure of a website. 
+CSS: Cascading Style Sheets fondly referred to as CSS is a simply designed language intended to 
+simplify the process of making web pages presentable. It is used to style our website. 
+JavaScript: JavaScript is a scripting language used to provide a dynamic behavior to our website. 
+Bootstrap: Bootstrap is a free and open-source tool collection for creating responsive websites 
+and web applications. It is the most popular CSS framework for developing responsive, mobile-
+first websites. Nowadays, the websites are perfect for all the browsers (IE, Firefox, and Chrome) 
+and for all sizes of screens (Desktop, Tablets, Phablets, and Phones). 
+ 
+Bootstrap 4 
+ 
+Bootstrap 5 
+Frontend Frameworks and Libraries: 
+ 
+ 
+AngularJS 
+ 
+React.js 
+ 
+VueJS 
+ 
+jQuery 
+ 
+Bootstrap 
+ 
+Material UI 
+ 
+Tailwind CSS 
+ 
+jQuery UI 
+Some other libraries and frameworks are: Handlebar.js Backbone.js, Ember.js etc. 
+ 
+ 
+2. Backend Development  
+Backend is the server side of a website. It is the part of the website that users cannot see and 
+interact. It is the portion of software that does not come in direct contact with the users. It is used 
+to store and arrange data. 
+ 
+Backend Roadmap: Backend Design roadmap 
+PHP: PHP is a server-side scripting language designed specifically for web development. 
+Java: Java is one of the most popular and widely used programming language. It is highly scalable. 
+Python: Python is a programming language that lets you work quickly and integrate systems more 
+efficiently. 
+Node.js: Node.js is an open source and cross-platform runtime environment for executing JavaScript 
+code outside a browser. 
+Back End Frameworks:  
+The list of back end frameworks are: 
+ 
+Express 
+ 
+Django 
+ 
+Rails  
+ 
+Laravel 
+ 
+Spring, etc. 
+ 
+",0
+9,"About web
+Web development is the work involved in developing a website for the Internet (World Wide Web) or 
+an intranet (a private network).[1] Web development can range from developing a simple single static 
+page of plain text to complex web applications, electronic businesses, and social network services. A 
+more comprehensive list of tasks to which Web development commonly refers, may include Web 
+engineering, Web design, Web content development, client liaison, client-side/server-side scripting, 
+Web server and network security configuration, and e-commerce development. 
+In the process of Web Development, Developers build web pages and applications for either the 
+Intranet, a private network, or the Internet. Web Development does not necessarily focus on a website’s
+design; rather, it is majorly concerned with the programming and coding part, which is the main reason 
+for the functioning of the website.
+Types of web development:
+1. Frontend web development
+2. Backend web development
+3. Full stack web development
+Frontend web development
+Front-end web development, also known as client-side development is the practice of producing 
+HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with 
+them directly. The challenge associated with front end development is that the tools and techniques 
+used to create the front end of a website change constantly and so the developer needs to constantly be 
+aware of how the field is developing.
+Backend web development
+Backend Development is also known as server-side development. It is everything that the users don’t 
+see and contains behind-the-scenes activities that occur when performing any action on a website. It 
+focuses primarily on databases, backend logic, APIs, and Servers.
+Full stack web development
+Development of both frontend and backend of web i.e. both client-side and server-side development.
+Web development frameworks
+A web development framework is a set of resources and tools for software developers to build and 
+manage web applications, web services and websites.
+Such a framework includes templating capabilities for presenting information within a browser, the 
+programming environment for scripting the flow of information and the application programming 
+interfaces (APIs) for accessing underlying data resources. The framework also provides the foundations
+and system-level services for software developers to build a content management system (CMS) for 
+managing digital information on the Web. Developers can use the framework to define the 'out-of-the-
+box' content management capabilities, user authentication features, and administrative tools. 
+",0
+10,"Web development in literal sense means spider developing its web but in technical terms means 
+developing web pages along with a complete working framework. Web development refers in 
+general to the tasks associated with developing websites for hosting via intranet or internet. 
+The web development process includes web design, web content development, client-
+side/server-side scripting and network security configuration, among other tasks. In a broader 
+sense, web development encompasses all the actions, updates, and operations required to build, 
+maintain and manage a website to ensure its performance, user experience, and speed are 
+optimal. Web development is the coding or programming that enables website functionality, 
+per the owner's requirements. It mainly deals with the non-design aspect of building websites, 
+which includes coding and writing markup. Web development ranges from creating plain text 
+pages to complex web-based applications, social network applications and electronic business 
+applications. Web development is important as it can easily reach to customers and reach new 
+audiences. Any working web system comprises of two components namely frontend and 
+backend which is called full stack. Frontend refers to the display (web pages) that are visible 
+to audience i.e. that are shown on the web browser. The part of a website that the user interacts 
+with directly is termed the front end. It is also referred to as the ‘client side’ of the application. 
+It includes everything that users experience directly: text colors and styles, images, graphs and 
+tables, buttons, colors, and navigation menu. HTML, CSS, and JavaScript are the languages 
+used for Front End development. The structure, design, behaviour, and content of everything 
+seen on browser screens when websites, web applications, or mobile apps are opened up, is 
+implemented by front End developers. Backend refers to the subsystem that is residing in the 
+server and its task is to make overall system work. Backend is responsible for instructing 
+frontend. Backend is the server-side of the website. It stores and arranges data, and also makes 
+sure everything on the client-side of the website works fine. It is the part of the website that 
+you cannot see and interact with. It is the portion of software that does not come in direct 
+contact with the users. The parts and characteristics developed by backend designers are 
+indirectly accessed by users through a front-end application. Activities, like writing APIs, 
+creating libraries, and working with system components without user interfaces or even 
+systems of scientific programming, are also included in the backend. With the development of 
+numerous frameworks based on different programming languages, developing web 
+applications has become significantly easier. That is one of the reasons for the high demand to 
+hire backend developers and front-end developers. Python, JavaScript, PHP, Ruby, . NET, etc., 
+are a few prominent backend languages. React, Vue, Ember, Bootstrap, and Angular are the 
+most famous front-end frameworks. Django, Ruby On Rails, Spring, Express, ASP.NET Core. 
+There are various frameworks like Django, Laravel, Express etc are used for development.  
+",0
+11,"Web development 
+Web development refers to the building, creating, and maintaining of 
+websites. It includes aspects such as web design, web publishing, web 
+programing, and database management. It is the creation of an 
+application that works over the internet i.e. Websites. 
+Web Development 
+The word Web Development is made up of two words, that is: 
+Web: It refers to websites, web pages or anything that works over the 
+internet. 
+Development: Building the application from scratch. 
+Web Development can be classified into two ways: 
+Frontend Development: The part of a website that the user interacts 
+directly is termed as front end. It is also referred to as the ‘client side’ 
+of the application. 
+Backend Development: Backend is the server side of a website. It is the 
+part of the website that users cannot see and interact. It is the part of 
+the website that users cannot see and interact. It is the portion of a 
+software that does not come in direct contact with the users. It is used 
+to store and arrange data.  
+  
+",0
+12,"About web development
+Web developent is the method or technique of deveopment of single or multiple web pages 
+and host them.Web development is the work involved in developing a website for the Internet 
+(World Wide Web) or an intranet (a private network). Web development can range from 
+developing a simple single static page of plain text to complex web applications, electronic 
+businesses, and social network services.Website development is the process of designing, 
+developing, and maintaining a website. 
+Essentially, the difference between web development and website design is that the designer 
+in website design designs the user interface of the website. Web development refers to the 
+building, creating, and maintaining of websites. It includes aspects such as web design, web 
+publishing, web programming, and database management. It is the creation of an application 
+that works over the internet i.e. websites.The word Web Development is made up of two 
+words, that is:
+Web: It refers to websites, web pages or anything that works over the internet.
+Development: Building the application from scratch.
+Importance of Web Development
+⦁ Makes navigation easy
+⦁ Content and Visual Elements
+⦁ Consistency is maintained
+⦁ Get to win with SEO
+⦁ Increase in sales
+1
+⦁ Attracts Lifetime Clients To Your Business
+⦁ Sets the impression for customer service
+⦁ Improves Your Business
+⦁ Extend Your Reach
+⦁ Resourceful in Marketing and Advertising
+Frontend and Backend
+Frontend
+The part of a website that the user interacts directly is termed as front end. It is 
+also referred to as the ‘client side’ of the application.
+⦁ HTML: HTML stands for HyperText Markup Language. It is used to design the 
+front end portion of web pages using markup language. It acts as a skeleton 
+for a website since it is used to make the structure of a website.
+⦁ CSS: Cascading Style Sheets fondly referred to as CSS is a simply designed 
+language intended to simplify the process of making web pages presentable. 
+It is used to style our website.
+⦁ JavaScript: JavaScript is a scripting language used to provide a dynamic 
+behavior to our website.
+⦁ Bootstrap: Bootstrap is a free and open-source tool collection for creating 
+responsive websites and web applications. It is the most popular CSS 
+framework for developing responsive, mobile-first websites. Nowadays, the 
+websites are perfect for all the browsers (IE, Firefox, and Chrome) and for all 
+2
+sizes of screens (Desktop, Tablets, Phablets, and Phones).
+⦁ Bootstrap 4
+⦁ Bootstrap 5
+Backend
+Backend is the server side of a website. It is the part of the website that users 
+cannot see and interact. It is the portion of software that does not come in direct 
+contact with the users. It is used to store and arrange data.
+⦁ PHP: PHP is a server-side scripting language designed specifically for web 
+development.
+⦁ Java: Java is one of the most popular and widely used programming 
+language. It is highly scalable.
+⦁ Python: Python is a programming language that lets you work quickly and 
+integrate systems more efficiently.
+⦁ Node.js: Node.js is an open source and cross-platform runtime environment 
+for executing JavaScript code outside a browser.
+Frameworks
+Frontend frameworks are:
+3
+⦁ AngularJS
+⦁ React.js
+⦁ VueJS
+⦁ jQuery
+⦁ Bootstrap
+⦁ Material UI
+⦁ Tailwind CSS
+⦁ jQuery UI
+Backend frameworks are:
+⦁ Express,
+⦁ Django,
+⦁ Rails,
+⦁ Laravel,
+⦁ Spring,
+4
+",0
+13,"About Web 
+ 
+The work that is involved in developing a website for internet or intranet is known as web 
+development. It can be ranged from developing a simple single static page of plain text to web 
+applications, electronic business and social network services. The  word web development is 
+made of two words, that is: 
+Web: It refers to websites, web pages or anything that work over the internet. 
+Development: Building the application from scratch. 
+There are two ways hat the web development can be classified into. They are: 
+Frontend Development: The part of a website that the user interacts directly is termed as front 
+end . It is also referred to as the ‘Client side’ of the application. 
+ 
+Backend development: Backend is the server side of the website. It is the part of the website 
+that users cannot see and interact. It is the portion of software that does not come in direct 
+contact with the users. 
+",0
+14,"About WEB 
+The world wide web commonly known as web is a chain of network 
+linked together. It is the most basic platform for any internet based 
+applications. Simply, the web refers to a large chain of network having a 
+link with multiple devices around the web. 
+(WWW), commonly referred to as the net, is the arena's dominant 
+software platform. it is an records area wherein files and other internet 
+assets may be accessed through the net the usage of an internet browser. 
+The internet has changed human beings's lives immeasurably. it is the 
+number one device billions of human beings worldwide use to engage at 
+the net. It became invented at CERN in 1989 and opened to the general 
+public in 1991. 
+net assets may be any sort of downloadable media. web pages are files 
+interconnected with the aid of hypertext links formatted in Hypertext 
+Markup Language (HTML). The HTML syntax shows embedded links 
+with URLs, which lets in users to navigate to different web resources. 
+similarly to textual content, internet pages may additionally comprise 
+references to pictures, video, audio, and software program additives, that 
+are either displayed or internally executed inside the consumer's net 
+browser to render pages or streams of multimedia content material. web 
+applications are web pages that function as utility software program. 
+more than one web sources with a not unusual subject matter and 
+normally a not unusual area name make up a internet site. web sites are 
+stored in computers which can be walking an internet server, that is a 
+software that responds to requests revamped the net from web browsers 
+jogging on a person's pc. website content can be supplied by means of a 
+writer or interactively from user-generated content material. websites are 
+provided for a myriad of informative, amusement, industrial, and 
+governmental motives. 
+The net was originally conceived as a report control system. The 
+information within the web is transferred via the Hypertext switch 
+Protocol (HTTP) to be accessed by means of customers via software 
+applications. 
+",0
+15,"About WEB
+Web development refers to the tasks associated with creating, building, and maintaining
+websites and web applications that run online on a browser. Web development is closely
+related to the job of designing the features and functionality of websites and apps (often
+called “web design”), but the “web development” term is usually reserved for the actual
+construction  and  programming  of  websites  and  apps.  The  basic  tools  involved  are
+programming languages called HTML (Hypertext Markup Language), CSS (Cascading Style
+Sheets), and JavaScript. 
+Website development is a way to make people aware of the services and/or products you
+are offering, understand why your products are relevant and even necessary for them to
+buy or use, and see which of your company's qualities set it apart from competitors.
+Displaying this information  with  high-quality  images  and  thought-out presentation  will
+have a large influence on customers, and it is important to strive towards making your
+product as relatable and appealing as possible. Additionally, with website development
+you can: Communicate with your visitors effectively, Improve your connectivity, Prove your
+reliability.
+It mainly has two parts associated with it frontend and backend. Front end development is
+a style of computer programming that focuses on the coding and creation of elements and
+features of a website that will then be seen by the user. It’s about making sure the visual
+aspects of a website are functional. You can also think of front end as the “client side” of
+an application. So let’s say you’re a front end developer. This means your job is to code
+and bring to life the visual elements of a website. You’d be more focused on what the user
+sees when they visit a website or app. And, you’d want to make sure the site is easy to
+interact with while also running smoothly. Back end development focuses on the side of
+the website users can’t see. It’s what makes a site interactive. You can also refer to the
+back end as the “server side” of a website. For instance, let’s say you’re running a social
+media website. You need an accessible place to store all of your users’ information. This
+storage center is called a database and a few widely used examples include Oracle, SQL
+Server,  and  MySQL.  Databases  are  run  from  a  server,  which  is  essentially  a  remote
+computer. A back end developer will help manage this database, as well as the site
+contents stored on it.
+There  are  various  frameworks  for  web  development  such  as  HTML,  CSS,  React,  Vue,
+Ember,  Bootstrap,  Angular  for  frontend  and  Django,  Ruby  On  Rails,  Spring,  Express,
+ASP.NET Core for backend.
+",0
+16,"What is web development: Web development is the building and maintenance of websites; 
+it’s the work that happens behind the scenes to make a website look great, work fast and 
+perform well with a seamless user experience. 
+Why is it Required: Web development is a way to make people aware of the services and/or 
+products you are offering, understand why your products are relevant and even necessary for 
+them to buy or use, and see which of your company's qualities set it apart from competitors. 
+Frontend: The part of a website that the user interacts with directly is termed the front end. It 
+is also referred to as the ‘client side’ of the application. It includes everything that users 
+experience directly: text colors and styles, images, graphs and tables, buttons, colors, and 
+navigation menu. HTML, CSS, and JavaScript are the languages used for Front End 
+development. 
+Backend: Backend is the server-side of the website. It stores and arranges data, and also 
+makes sure everything on the client-side of the website works fine. It is the part of the 
+website that you cannot see and interact with. It is the portion of software that does not come 
+in direct contact with the users. 
+Frameworks for Web dev: Express, Django, Ruby on Rails, Vue JS, Angular JS 
+",0
+17,"About Web
+•
+What is Web development?
+•
+Why is it required?
+•
+Frontend, Backend
+•
+Frameworks for web development
+The Web is the common name for the World Wide Web, a subset of the Internet consisting of the pages
+that can be accessed by a Web browser. Many people assume that the Web is the same as the Internet,
+and use these terms interchangeably. However, the term Internet actually refers to the global network of
+servers that makes the information sharing that happens over the Web possible. So, although the Web
+does make up a large portion of the Internet, but they are not one and same. 
+Web development is the work involved in developing a website for the Internet (World Wide Web) or
+an intranet (a private network). Web development can range from developing a simple single static
+page of plain text to complex web applications, electronic businesses, and social network services. A
+more comprehensive list of tasks to which Web development commonly refers, may include Web
+engineering, Web design, Web content development, client liaison, client-side/server-side scripting,
+Web server and network security configuration, and e-commerce development.
+Website development is a way to make people aware of the services and/or products you are offering,
+understand why your products are relevant and even necessary for them to buy or use, and see which of
+your company's qualities set it apart from competitors. Displaying this information with high-quality
+images and thought-out presentation will have a large influence on customers, and it is important to
+strive towards making your product as relatable and appealing as possible. Additionally, with website
+development you can:
+1. Communicate with your visitors effectively. Interacting with your audience is vital when it comes to
+generating more business. It is viable to make a website that enables you to get in touch with your
+customers and prospects, and you can produce valuable content for the audience associated with the
+industry or business you're in. Afterwards, post the content on your blog, share it on social media
+networks and respond to customers' comments and feedback promptly. This will show your clients the
+extent to which you’re concerned about their satisfaction and responsive to their needs.
+2. Improve your connectivity. A website will facilitate things like expanding your reach and attracting
+more visitors to your business. Planning to make a responsive website design for your site will help
+make  it  accessible  to an  extensive  range  of users  spanning  several  devices,  such as  tablets  or
+smartphones. This will increase both your site's exposure and organic traffic.
+3. Prove your reliability. A website offers a straightforward method of showing the credibility of a
+business, and the way a person represents his business online is vital for attracting more customers or
+visitors. Therefore, your website design should be handled in the best possible way, because a
+professional presentation speaks volumes as testimony to your business. With the help of website
+development, you can add your skills, credentials, experience, expertise and more in a single place.
+These details help you earn the trust and confidence of your visitors and serve as a reference point for
+customers interested in your business, making it easy for you to produce leads.
+If you are a developer or you want to become one, there are plenty available web development
+positions in leading development job search websites.
+To sum up, it's pretty clear that website development plays a big role in successful business marketing.
+Without it, it would be very difficult to leave your mark on a global level. So make life easier for
+yourself! Start adapting, develop a website, and get ready to collect the benefits of your success.
+Front End and Back End: Frontend and Backend are the two most popular terms used in web
+development. These terms are very crucial for web development but are quite different from each other.
+Each side needs to communicate and operate effectively with the other as a single unit to improve the
+website’s functionality. 
+Front End Development: The part of a website that the user interacts with directly is termed the front
+end. It is also referred to as the ‘client side’ of the application. It includes everything that users
+experience directly: text colors and styles, images, graphs and tables, buttons, colors, and navigation
+menu. HTML, CSS, and JavaScript are the languages used for Front End development. The structure,
+design, behavior, and content of everything seen on browser screens when websites, web applications,
+or  mobile  apps  are  opened  up,  is  implemented  by  front  End  developers.  Responsiveness  and
+performance are two main objectives of the Front End. The developer must ensure that the site is
+responsive i.e. it appears correctly on devices of all sizes no part of the website should behave
+abnormally irrespective of the size of the screen. 
+Front end Languages: The front end portion is built by using some languages which are discussed
+below: 
+HTML: HTML stands for Hypertext Markup Language. It is used to design the front-end portion of
+web pages using a markup language. HTML is the combination of Hypertext and Markup language.
+Hypertext defines the link between the web pages. The markup language is used to define the text
+documentation within the tag which defines the structure of web pages.
+CSS: Cascading Style Sheets fondly referred to as CSS is a simply designed language intended to
+simplify the process of making web pages presentable. CSS allows you to apply styles to web pages.
+More importantly, CSS enables you to do this independent of the HTML that makes up each web page.
+JavaScript: JavaScript is a famous scripting language used to create magic on the sites to make the site
+interactive for the user. It is used to enhancing the functionality of a website to running cool games and
+web-based software.
+There are many other languages through which one can do front-end development depending upon the
+framework for example Flutter user Dart, React uses JavaScript and Django uses Python, and much
+more.
+Front End Frameworks and Libraries: 
+AngularJS: AngularJs is a JavaScript open-source front-end framework that is mainly used to develop
+single-page web applications(SPAs). It is a continuously growing and expanding framework which
+provides better ways for developing web applications. It changes the static HTML to dynamic HTML.
+It is an open-source project which can be free. It extends HTML attributes with Directives, and data is
+bound with HTML.
+React.js: React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+ReactJS is an open-source, component-based front-end library responsible only for the view layer of
+the application. It is maintained by Facebook. 
+Bootstrap: Bootstrap is a free and open-source tool collection for creating responsive websites and web
+applications. It is the most popular HTML, CSS, and JavaScript framework for developing responsive,
+mobile-first websites.
+jQuery:  jQuery  is  an  open-source  JavaScript  library  that  simplifies  the  interactions  between  an
+HTML/CSS  document,  or more  precisely  the  Document  Object  Model  (DOM),  and  JavaScript.
+Elaborating the terms, jQuery simplifies HTML document traversing and manipulation, browser event
+handling, DOM animations, Ajax interactions, and cross-browser JavaScript development.
+SASS: It is the most reliable, mature, and robust CSS extension language. It is used to extend the
+functionality of an existing CSS of a site including everything from variables, inheritance, and nesting
+with ease.
+Flutter: Flutter is an open-source UI development SDK managed by google. It is powered by Dart
+programming language. It builds performant and good-looking natively compiled applications for
+mobile (Ios, Android), web, and desktop from a single code base. The key selling point of flutter is flat
+development is made easier, expressive, and flexible UI and native performance. In march 2021 flutter
+announce Flutter 2 which upgrades flutter to build release applications for the web, and the desktop is
+in beta state.
+Some other libraries and frameworks are Semantic-UI, Foundation, Materialize, Backbone.js, Ember.js,
+etc.
+Backend Development: Backend is the server-side of the website. It stores and arranges data, and also
+makes sure everything on the client-side of the website works fine. It is the part of the website that you
+cannot see and interact with. It is the portion of software that does not come in direct contact with the
+users. The parts and characteristics developed by backend designers are indirectly accessed by users
+through a front-end application. Activities, like writing APIs, creating libraries, and working with
+system components without user interfaces or even systems of scientific programming, are also
+included in the backend. 
+Back end Languages: The back end portion is built by using some languages which are discussed
+below: 
+ 
+PHP: PHP is a server-side scripting language designed specifically for web development. Since PHP
+code executed on the server-side, so it is called a server-side scripting language.
+C++: It is a general-purpose programming language and widely used nowadays for competitive
+programming. It is also used as a backend language.
+Java: Java is one of the most popular and widely used programming languages and platforms. It is
+highly scalable. Java components are easily available.
+Python: Python is a programming language that lets you work quickly and integrate systems more
+efficiently.
+Node.js: Node.js is an open-source and cross-platform runtime environment for executing JavaScript
+code outside a browser. You need to remember that NodeJS is not a framework, and it’s not a
+programming language. Most people are confused and understand it’s a framework or a programming
+language. We often use Node.js for building back-end services like APIs like Web App or Mobile App.
+It’s used in production by large companies such as Paypal, Uber, Netflix, Walmart, and so on.
+Back End Frameworks: 
+The list of back-end frameworks are: Express, Django, Rails, Laravel, Spring, etc.
+The other back-end program/scripting languages are C#, Ruby, REST, GO, etc.
+",0
