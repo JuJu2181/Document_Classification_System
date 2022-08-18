@@ -7,7 +7,6 @@ from nltk.corpus import stopwords
 import fitz
 import pickle
 
-
 #? Initialize the vectorizer
 vectorizer = CountVectorizer()
 
@@ -81,5 +80,3 @@ if __name__ == "__main__":
     pickle.dump(model,open('classifier.model','wb'))
     # save the vectorizer to a file
     pickle.dump(vectorizer,open('vectorizer.pickle','wb'))
-
-    

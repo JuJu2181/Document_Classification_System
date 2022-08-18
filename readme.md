@@ -8,3 +8,6 @@ Here in this a project, a simple document classification system has been created
 
 ## Technologies Used: 
 Machine Learning, Natural Language Processing, Python, Data Mining
+
+## Checkout the Classifier Outputs:
+![Output](output.jpg)
