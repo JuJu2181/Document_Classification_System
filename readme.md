@@ -11,3 +11,6 @@ Machine Learning, Natural Language Processing, Python, Data Mining
 
 ## Checkout the Classifier Outputs:
 ![Output](output.jpg)
+
+## Acknowledgement
+Special thanks to my mentor [Siddhant Sharma](https://github.com/Siddhant128-bit/Siddhant128-bit)
